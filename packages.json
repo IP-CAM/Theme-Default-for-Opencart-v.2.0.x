@@ -1,7 +1,0 @@
-{
-  "packages": {
-    "prhost/opencommerce-theme-default": {
-      "dev-master": { @composer.json }
-    }
-  }
-}
