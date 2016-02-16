@@ -1,0 +1,25 @@
+{
+  "name": "theme-default",
+  "homepage": "https://github.com/newcart/theme-default",
+  "authors": [
+    "Kallef <prhost@prhost.com.br>"
+  ],
+  "description": "",
+  "directory": "assets/vendor/",
+  "main": "",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
