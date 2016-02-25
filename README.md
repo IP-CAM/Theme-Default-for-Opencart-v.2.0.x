@@ -1,3 +1,3 @@
-# opencommerce-theme-default
+# Default theme
 
-**Theme default opencart version:** 2.1.0.2
+**Opencart Version:** 2.1.0.2
